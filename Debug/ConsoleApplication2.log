@@ -1,0 +1,23 @@
+﻿  ConsoleApplication2.cpp
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\vec3.h(54): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\vec3.h(133): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\material.h(19): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\material.h(97): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\hitablelist.h(34): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\camera.h(21): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(52): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(64): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(65): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(65): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(101): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(101): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(102): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(104): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(108): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(108): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(111): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(118): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(119): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(163): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+c:\users\eleve\desktop\raytrac\nouveau projet - copie\consoleapplication2.cpp(190): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  ConsoleApplication2.vcxproj -> C:\Users\eleve\Desktop\raytrac\Nouveau projet - Copie\Debug\ConsoleApplication2.exe

@@ -1,5 +1,6 @@
 # LanceDeRayon
 
 
-AAJAFIR   ||  KHALIL    ||  LIU
-Chaimaa   ||  Douaa     ||  Jiacheng
+AAJAFIR  Chaimaa   
+KHALIL   Douaa 
+LIU    Jiacheng
